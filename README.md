@@ -12,7 +12,7 @@
     >A passionate full stack developer from India
 </h3>
 
-- 🌱 I’m currently learning **Node, React Native, Kafka, Cloud, DevOps**
+- 🌱 I’m currently learning **Node, React Native, Kafka, Cloud, DevOps, Docker, Jenkins**
 
 - 💬 Ask me about **Java, Spring Boot, React, MongoDB**
 

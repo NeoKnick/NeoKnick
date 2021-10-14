@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NeoKnick/NeoKnick/blob/main/background_image_without_slogan.png" height="auto" width="100%" />
+  <img src="https://github.com/NeoKnick/NeoKnick/blob/main/background_image_without_slogan.png" height="auto" width="auto" />
 </p>
 
 <br/>

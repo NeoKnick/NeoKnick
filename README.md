@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Nikhil Bilgi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<p align="center">
+  <img src="https://github.com/NeoKnick/NeoKnick/blob/main/wallpaper_without_slogan.png" height="400"/>
+</p>
+
+<br/>
+
+<h1 align="center">
+  Hi 👋, I'm Nikhil Bilgi
+</h1>
+
+<h3 align="center"
+    >A passionate full stack developer from India
+</h3>
 
 - 🌱 I’m currently learning **Node, React Native, Kafka, Cloud, DevOps**
 

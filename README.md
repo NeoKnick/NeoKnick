@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">
-  Hi 👋, I'm Nikhil Bilgi
+  Hi, I'm Nikhil Bilgi
 </h1>
 
 <h3 align="center"
@@ -67,7 +67,4 @@
   <a href="https://spring.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a> 
 </p>
